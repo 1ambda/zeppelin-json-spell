@@ -2,6 +2,10 @@
 
 Provide JSON editor in paragraphs.
 
+## Usage
+
+![](https://raw.githubusercontent.com/1ambda/zeppelin-json-spell/master/screenshots/usage.png)
+
 ## Example Paragraph for Testing
 
 ```
